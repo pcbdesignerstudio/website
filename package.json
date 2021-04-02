@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-hyperspace",
+  "name": "pcb-designer-studio",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
+  "description": "The PCB Designer Studio website",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
+    "url": "https://github.com/pcbdesignerstudio/website.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Hanupratap Singh Chauhan",
+    "email": "hanupratap1999@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.29",
@@ -44,7 +44,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-hyperspace/issues"
+    "url": "https://github.com/pcbdesignerstudio/website/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-hyperspace#readme"
+  "homepage": "https://github.com/pcbdesignerstudio/website/#readme"
 }
