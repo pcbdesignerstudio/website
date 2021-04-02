@@ -7,9 +7,6 @@ const Footer = () => (
     <div className="inner">
       <ul className="menu">
         <li>&copy; PCBDesignerStudio. All rights reserved.</li>
-        <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
-        </li>
       </ul>
     </div>
   </footer>
